@@ -48,5 +48,14 @@
   },
   "prettier": {
     "singleQuote": true
+  },
+  "eslintConfig": {
+    "brace-style": [
+      1,
+      "allman",
+      {
+        "allowSingleLine": true
+      }
+    ]
   }
 }
