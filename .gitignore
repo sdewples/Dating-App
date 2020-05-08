@@ -47,3 +47,5 @@ msbuild.wrn
 appsettings.json
 
 backup/
+
+wwwroot
